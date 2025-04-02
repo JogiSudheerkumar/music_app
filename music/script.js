@@ -11,7 +11,7 @@ let songItems = Array.from(document.getElementsByClassName('songItem'));
 
 // Song List (Fix file paths)
 let songs = [
-    {songName: "Samie_bower", filePath: "Samie_Bower_-_Where's_the_Love.mp3", coverPath: "mm.jpg"},
+    {songName: "Swahi reddy", filePath: "Swathi Reddy.mp3", coverPath: "mm.jpg"},
     {songName: "Alone", filePath: "Alone_-_Color_Out.mp3", coverPath: "mm.jpg"},
     {songName: "Bessonn&amp", filePath: "Bessonn&amp;sa_-_Dance_All_Night.mp3", coverPath: "mm.jpg"},
     {songName: "Boulvard", filePath: "Boulvard_X-Audi_-_My_inspiration_for_the_day.mp3", coverPath: "mm.jpg"},
